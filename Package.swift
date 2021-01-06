@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "TreeSitterMarkdown",
+    name: "swift-tree-sitter-markdown",
 
     products: [
         .library(name: "TreeSitterMarkdown", targets: ["TreeSitterMarkdown"]),
