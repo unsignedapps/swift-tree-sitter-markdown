@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/unsignedapps/swift-tree-sitter",
         "state": {
           "branch": null,
-          "revision": "9a560dddb97b50ab08328b4ff1c27a81449c059a",
-          "version": "0.16.5-swift"
+          "revision": "669afcec0231b8b334fd4a8fd39caa66b80046d7",
+          "version": "0.18.0"
         }
       }
     ]
