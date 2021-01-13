@@ -11,7 +11,7 @@ let package = Package(
     ],
 
     dependencies: [
-        .package(name: "TreeSitter", url: "https://github.com/unsignedapps/swift-tree-sitter", .exact("0.16.5-swift"))
+        .package(name: "TreeSitter", url: "https://github.com/unsignedapps/swift-tree-sitter", from: "0.18.0")
     ],
 
     targets: [
