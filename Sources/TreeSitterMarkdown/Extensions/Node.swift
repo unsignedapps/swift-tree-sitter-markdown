@@ -45,7 +45,7 @@ public extension Node {
         let end = Int(self.endByte)
 
         let data = Data(source.utf8)
-        guard end < data.endIndex else { return "" }
+        guard end <= data.endIndex else { return "" }
         return String(data: data[start ..< end], encoding: .utf8) ?? ""
     }
 }
