@@ -76,7 +76,7 @@ extension Language {
         
         // MARK: - Lists
         
-        public static let listTight = "tight_light"
+        public static let listTight = "tight_list"
         public static let listLoose = "loose_list"
         public static let listItem = "list_item"
         public static let listMarker = "list_marker"
